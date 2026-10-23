@@ -117,7 +117,8 @@ Output
 # OUTPUT
 
 
- 
+ <img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/2872302e-f455-494e-824e-8a27d21e7fc5" />
+
 # Viva-Voce Questions
 
 •	What is a logic gate?
