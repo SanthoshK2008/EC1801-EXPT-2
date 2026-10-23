@@ -34,9 +34,10 @@ module basic_gates (
     assign y_not = ~a;      // NOT gate (inverter)
 
 endmodule
-# **Test Bench Program**
 
-    reg a, b;
+# **Test Bench Program**
+module tb2;
+     reg a, b;
     wire y_and, y_or, y_not;
 
     // Instantiate the design under test (DUT)
@@ -66,8 +67,6 @@ endmodule
     end
 
 endmodule
-<img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" />
-
 # Simulation Procedure
 STEP 1 – Open Terminal
 Open a terminal in the experiment folder.
@@ -117,7 +116,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 Output
 # OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/1530ba00-b77d-45e5-9efa-fafbc0831049" />
 
  
 # Viva-Voce Questions
